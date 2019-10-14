@@ -1,0 +1,19 @@
+body{
+    text-align: center;
+    font-size: 1.1rem;
+    line-height: 1.5;
+    color: #333;
+    font-family: sans-serif;
+    display: flex;
+    flex-direction: column;
+}
+ul{
+    list-style: none;
+}
+#navbar{
+    position: fixed;
+    top: 0;
+    display: flex;
+    background-color: red;
+    width: 100%;
+}
